@@ -4,6 +4,8 @@ from django.contrib.auth.models import User
 from .signup_form import SignUpForm
 from .forms import addLesson
 from .models import Lessons
+from .forms import UnifiedForm
+
 
 # Create your views here.
 
